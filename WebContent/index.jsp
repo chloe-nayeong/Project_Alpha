@@ -12,6 +12,10 @@
 =======
 	<header>헤더 입니다.
 		<div>회원가입</div>
+<<<<<<< HEAD
+>>>>>>> branch 'master' of https://github.com/chloe-nayeong/Project_Alpha.git
+=======
+		<div>관리자</div>
 >>>>>>> branch 'master' of https://github.com/chloe-nayeong/Project_Alpha.git
 	</header>
 
