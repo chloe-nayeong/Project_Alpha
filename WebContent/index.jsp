@@ -13,6 +13,7 @@
 	
 
 	<article> 본문 입니다.
+	뭐지 뭐가잘못된거야
 	</article>
 
 	<footer> 푸터 입니다.
